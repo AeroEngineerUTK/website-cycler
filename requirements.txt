@@ -1,0 +1,3 @@
+
+# Selenium: requires at least v4.34.2, allows newer versions
+selenium>=4.34.2
