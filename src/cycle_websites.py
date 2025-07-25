@@ -79,4 +79,4 @@ def export_results(link, max_output):
         f.write(f"{time.ctime()}: Visited {link}\n")
 
 
-cycle_websites(url=url, duration=5, display_time=5)
+cycle_websites(urls=url, duration=5, display_time=5)
