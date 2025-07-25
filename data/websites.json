@@ -1,0 +1,21 @@
+{
+  "collectionTitle": "Websites",
+  "links": [
+    {
+      "title": "OpenAI",
+      "url": "https://www.openai.com"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "title": "Stack Overflow",
+      "url": "https://stackoverflow.com"
+    },
+    {
+      "title": "Reddit",
+      "url": "https://www.reddit.com"
+    }
+  ]
+}
