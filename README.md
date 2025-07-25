@@ -24,7 +24,7 @@ A Python script that opens a list of websites in a browser using Selenium, cycle
 See [`requirements.txt`](requirements.txt), or install directly:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
