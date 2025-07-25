@@ -35,3 +35,4 @@ pip install -r requirements.txt
 💻 [GitHub](https://github.com/AeroEngineerUTK)
 
 > Built with Python, caffeine, and curiosity.
+> Developed on Windows 10/11
